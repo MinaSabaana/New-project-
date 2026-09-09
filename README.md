@@ -6,7 +6,7 @@ Final project for the Building AI course
 ## Summary
 FörståMig AI is an AI tool that helps people understand information from public authorities. It can make difficult texts easier to understand, summarize important information, explain difficult words, and show important dates and actions.
 
-Background
+## Background
 Communication from public authorities can sometimes be difficult to understand. Official letters may contain formal language, complicated terms and long explanations. For some people, this can make it difficult to understand what a decision means or what they are expected to do next.
 
 This can be particularly challenging for people who have Swedish as a second language, people with limited experience of communicating with authorities, or people who find complex written information difficult to understand.
