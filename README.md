@@ -3,7 +3,7 @@ Building AI project
 FörståMig AI
 Final project for the Building AI course
 
-#Summary
+## Summary
 FörståMig AI is an AI tool that helps people understand information from public authorities. It can make difficult texts easier to understand, summarize important information, explain difficult words, and show important dates and actions.
 
 Background
